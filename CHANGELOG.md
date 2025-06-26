@@ -45,6 +45,10 @@
 - Initial version.
 
 Pre-release versions
+
+## 0.1.8-dev - 2025-06-26
+- Repo changes
+
 ## 0.1.7-dev - 2024-09-01
 
 - fix - skip packages logic updated
